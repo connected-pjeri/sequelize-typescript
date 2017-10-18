@@ -1,5 +1,5 @@
 {
-  "name": "sequelize-typescript",
+  "name": "sequelize-typescript-cl",
   "version": "0.4.0-beta",
   "description": "Decorators and some other extras for sequelize (v3 + v4)",
   "scripts": {
