@@ -411,7 +411,7 @@ export declare class Model<T> extends Hooks {
   /**
    * Adds relation between specified instances and source instance
    */
-  $add<R extends Model<R>>(propertyKey: string, instances: R|R[], options?: IAssociationActionOptions): Promise<this>;
+  $add<R extends Model<R>>(propertyKey: string, instances: R|R[], options?: IAssociationActionOptions): Promise<any>;
 
   /**
    * Sets relation between specified instances and source instance
